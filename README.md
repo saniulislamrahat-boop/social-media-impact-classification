@@ -1,8 +1,8 @@
-# 📊 Social Media Impact on Life — Classification
+# 📊 Social Media Impact on Life Classification
 
 A Machine Learning classification project that predicts the **overall impact of social media on a student's life**  **Positive**, **Neutral**, or **Negative** based on survey data (usage habits, stress, GPA, platform, gender, etc.).
 
-The project trains and compares **four classification models** Logistic Regression, Decision Tree, Random Forest, and K-Nearest Neighbors — and evaluates each one with accuracy, precision, recall, F1 score, and a confusion matrix.
+The project trains and compares **four classification models** Logistic Regression, Decision Tree, Random Forest, and K-Nearest Neighbors  and evaluates each one with accuracy, precision, recall, F1 score, and a confusion matrix.
 
 ---
 
